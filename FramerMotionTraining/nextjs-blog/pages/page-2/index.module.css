@@ -1,0 +1,26 @@
+.wrapper {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background: linear-gradient(135deg, #e09, #d0e);
+}
+.box {
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.06);
+}
+.button {
+    display: block;
+    width: 200px;
+    margin: 50px auto;
+    padding: 10px 0;
+    font-size: 20px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+}
