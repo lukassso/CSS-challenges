@@ -12,9 +12,14 @@ const allPagesData = [
         name: 'page link 1'
     },
     {
-        id: 1,
+        id: 2,
         href: './page-2',
         name: 'page link 2'
+    },
+    {
+        id: 3,
+        href: './page-3',
+        name: 'page link 3'
     }
 ];
 
